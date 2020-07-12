@@ -1,0 +1,19 @@
+{
+    "name": "cser/cser-plugin",
+    "description": "Plugin cservissolle",
+    "type": "project",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Cservissolle",
+            "email": "caroline@servissolle.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    }
+}
